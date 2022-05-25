@@ -1,0 +1,5 @@
+#!/bin/sh
+
+gcc -g -I./include -pedantic -Wall -std=c99 -O2 src/*.c test/*.c
+#rm *.gch
+
