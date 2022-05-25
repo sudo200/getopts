@@ -9,5 +9,5 @@ A simple library for argument parsing
 
 ## Usage
 
-See [test/main.c]() for details
+See [test/main.c](test/main.c) for details
 
